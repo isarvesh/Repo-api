@@ -1,0 +1,38 @@
+.repo-cards {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #44475a;
+    
+}
+
+.repo-card {
+    width: 300px;
+    margin: 20px;
+    padding: 40px;
+    border: 3px solid rgb(255, 0, 0);
+    border-radius: 5px;
+    text-align: center;
+    background: #121212;
+  
+}
+
+.repo-card img {
+    width: 100px;
+    height: 100px;
+    border-radius: 25px;
+    margin: 20px auto 10px;
+    border-color: #FFFFFF;
+}
+
+.repo-card h2 {
+    margin: 10px 0;
+    color:#FFCC66;
+}
+
+.repo-card p {
+    font-size: 14px;
+    color: #d7fd00;
+    margin: 0;
+}
+
+
